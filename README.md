@@ -54,4 +54,5 @@ The dataset contains monthly unemployment statistics in India, broken down by st
 - scikit-learn (metrics)
 - plotly (optional interactive plots)
 ```
-[git rep](https://github.com/Abre1234/CodeAlpa_Unemployment_Rate)
+
+➡️ [GitHub Repo](https://github.com/Abre1234/CodeAlpha_Sales_Prediction)
